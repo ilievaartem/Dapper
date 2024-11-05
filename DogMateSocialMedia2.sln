@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogMateSocialMedia2", "DogMateSocialMedia2\DogMateSocialMedia2.csproj", "{CA0CCB30-4A4B-4BDE-B06D-1DECEB8FC6D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperProj", "DapperProj\DapperProj.csproj", "{F8BE9B05-FBBE-474E-955E-D5AF49221B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0CCB30-4A4B-4BDE-B06D-1DECEB8FC6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0CCB30-4A4B-4BDE-B06D-1DECEB8FC6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0CCB30-4A4B-4BDE-B06D-1DECEB8FC6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0CCB30-4A4B-4BDE-B06D-1DECEB8FC6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BE9B05-FBBE-474E-955E-D5AF49221B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BE9B05-FBBE-474E-955E-D5AF49221B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BE9B05-FBBE-474E-955E-D5AF49221B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BE9B05-FBBE-474E-955E-D5AF49221B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
